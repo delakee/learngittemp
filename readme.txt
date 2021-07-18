@@ -1,2 +1,2 @@
 Git is a good version contral system.
-I am learning git.
+I am learning git version 2.
