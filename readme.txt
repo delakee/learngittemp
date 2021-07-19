@@ -1,4 +1,4 @@
 Git is a good version contral system.
 I am learning git version three.
 I am learning working directory.
-Git tracks changes.
+Git tracks changes of files.
